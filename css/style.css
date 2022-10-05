@@ -1,0 +1,26 @@
+body{
+    background-color: #663333;
+    color: #cccccc;
+}
+
+.container{
+    height: 100vh;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Creepster', cursive;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+
+}
+
+h2{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 20px;
+}
